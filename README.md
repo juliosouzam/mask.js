@@ -1,15 +1,15 @@
-# Mask.js
+# Masked.js
 
 ## How to use?
 
 ```sh
-yarn add mask.js
+yarn add masked.js
 # or
-npm install mask.js
+npm install masked.js
 ```
 
 ```js
-const { mask } = require('mask.js');
+const { mask } = require('masked.js');
 
 mask('12345678', '#####-###');
 // 12345-678

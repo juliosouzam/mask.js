@@ -1,6 +1,6 @@
 {
-  "name": "mask.js",
-  "version": "1.0.0",
+  "name": "masked.js",
+  "version": "1.0.2",
   "description": "A basic lib to mask values",
   "main": "index.js",
   "repository": {
@@ -8,7 +8,8 @@
     "url": "git+https://github.com/juliosouzam/mask.js.git"
   },
   "keywords": [
-    "mask"
+    "mask",
+    "masked.js"
   ],
   "author": "juliosouzam",
   "license": "ISC",
