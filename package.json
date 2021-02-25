@@ -1,6 +1,19 @@
 {
   "name": "mask.js",
   "version": "1.0.0",
+  "description": "A basic lib to mask values",
   "main": "index.js",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliosouzam/mask.js.git"
+  },
+  "keywords": [
+    "mask"
+  ],
+  "author": "juliosouzam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliosouzam/mask.js/issues"
+  },
+  "homepage": "https://github.com/juliosouzam/mask.js#readme"
 }
