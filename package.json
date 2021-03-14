@@ -1,6 +1,6 @@
 {
   "name": "masked.js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A basic lib to mask values",
   "main": "dist/index.js",
   "repository": {
