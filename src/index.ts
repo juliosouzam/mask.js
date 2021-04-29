@@ -6,7 +6,7 @@ function mask(value: string, pattern: string): string {
   return pattern
     .toString()
     .trim()
-    .replace(/#/g, () => v[i++ || 0]);
+    .replace(/#/g, () => v[i++ || 0] || "");
 }
 
 export { mask };
